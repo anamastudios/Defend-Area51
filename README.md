@@ -8,7 +8,7 @@ Area51 gets stormed and you must defend it!! The attackers already have made a h
 If you fail, you get fired soldier. Don't fuck this up!
 
 ## Downloads
-1: Download it from Github
-2: Download it from itch.io: https://anamastudios.itch.io/defend-area51
+- Download it from Github
+- Download it from itch.io: https://anamastudios.itch.io/defend-area51
 
 Unity: 2019.4.40f1
